@@ -1,0 +1,58 @@
+
+body{
+background-color: rgb(211,211,211);
+font-family: 'Arvo', serif;
+text-align: center
+}
+
+ul{
+color: black;
+display: block;
+margin: auto;
+width: 25%;
+list-style-position: inside;
+font-family: 'Arvo', serif;
+}
+
+ol{
+color: black;
+display: block;
+margin: auto;
+width: 25%;
+list-style-position: inside;
+}
+
+li{
+text-align: left;
+}
+hr{
+	width: 50%;
+}
+
+.head{
+text-align: center;
+font-family: 'Arvo', serif;
+
+}
+footer{
+text-align: center;
+font-family: 'Arvo', serif;
+}
+.img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.about{
+color: black;
+display: block;
+margin: auto;
+width: 25%;
+font-family: 'Arvo', serif;
+
+}
+
+p{
+text-align: left;
+}
