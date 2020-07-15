@@ -62,6 +62,8 @@ font-family: 'Arvo', serif;
 /*centers the text in the text in the footer*/
 .foot{
 	text-align: center;
+	height: auto;
+	padding: auto;
 }
 /*Aligns my paragraphs to the left*/
 p{
